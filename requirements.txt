@@ -1,0 +1,7 @@
+numpy
+opencv-python
+dlib
+face_recognition
+requests
+twilio
+python-dotenv

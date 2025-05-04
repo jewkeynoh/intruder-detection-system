@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+*.venv
+env/
+ENV/
+
+# Configuration secrets
+.env
+
+# Logs
+logs
+*.log
+
+# Data files (optional - depends if you want to commit)
+# *.pkl
+known_face_encodings.pkl
+intruder_images/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files (examples)
+.vscode/
+.idea/
+*.swp
+*.swo
